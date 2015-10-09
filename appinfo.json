@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "txeo.msx@gmail.com",
+    "longName": "Aqu\u00ed y Ahora",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "aqu\u00ed y ahora",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "533aa747-2d2b-4342-9220-a11a28a71aa3",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
